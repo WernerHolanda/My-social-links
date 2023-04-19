@@ -1,4 +1,4 @@
-alert ('Tá rolando o js')
+alert ('Seja Bem Vindo(a)')
 
 function toggleMode(){
     const html = document.documentElement

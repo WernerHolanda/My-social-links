@@ -1,12 +1,13 @@
 body {
   text-align: center;
-  
 
   background-image: var(--bg-url);
   background-repeat: no-repeat;
   background-size: cover;
-    background-position: 30%;
-}   
+  background-position: 30%;
+  
+  height: 100vh;
+  }   
 
 /* "*" se chama seletor universal. q é um seletor geral para tudo do body, pode ser tbm em outros */
 body * {

@@ -118,7 +118,7 @@ background: var(--switch-bg-url);
 background-color: rgb(244, 247, 247);
 
 background-size: 63% ;
-background-position: 3px;
+background-position: 5px;
 
 position: absolute;
 top: 50%;
@@ -126,18 +126,26 @@ left: 0%;
 z-index: 1;
 
 transform: translateY(-50%);
+
+animation: slide-back 0.4s;
 }
 
 .light-mode #switch #button{
+  /*slide-in é o nome que eudei para a animação at-rule Keyframes que está lá embaixo*/
+  animation: slide-in 0.4s ;
   right: 0;
   left: initial;
+}
+
+#button:hover {
+  outline: solid 8px var(--border-color);
 }
 
 #switch span {
   
 display: block;
 
-width: 64px ;
+width: 54px ;
 height: 24px ;
 background: var(--surface-color);
 
@@ -201,4 +209,18 @@ footer {
   text-size-adjust: center ;
    font-size: 14px;
    margin: 10px;  
+}
+
+/*animação do botão. "keyframes" é uma at-rule que define animações. em seguida eu coloco o nome que desejo qualquer um, no caso "slide-in"*/
+@keyframes slide-in {
+  from {left: 0;}
+
+  to {left: 50%}
+}
+
+/*Aqui embaixo está a animação que volta. irei chamar de slide-back*/
+@keyframes slide-back {
+  from { left: 50%; }
+  to { left: 0;}
+  
 }

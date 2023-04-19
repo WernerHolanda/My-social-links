@@ -18,15 +18,18 @@ Programa exclusivo desenvolvido por Werner Holanda, promovido tomando por base o
 
 <br>
 
-<h3>🔖 Abaixo, há a página/projeto em sua versão escura(dark):</h3>
+<h3>🔖 Abaixo, apresento a página/projeto contendo:
+
+- Link de acesso às minhas Social Links; 
+- Também, às minhas linguagens de programação já aprendidas; 
+- Por fim, demonstro a possibilidade de um outro layout da página no modo Claro-Escuro, e o seu funcionamento; 
+
+
+</h3>
 <p align="center">
-  <img alt="projeto My Social Links" src=".github/dark-mode.jpg" width="100%">
+  <img alt="projeto My Social Links" src=".github/dark-light.gif" width="100%">
 </p>
 <br>
-<h3>🔖 Em seguida, ao clicar no botão, é possível alterar o layout da página para o modo Claro (Light-mode):<h3>
-<br>
-<p align="center">
- <img alt="projeto My Social Links - Light-mode" src=".github/light-mode.jpg" width="100%">
 
 ## 🚀 Tecnologias
 

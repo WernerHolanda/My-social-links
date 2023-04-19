@@ -1,7 +1,7 @@
-<h1 align="center"> DevLinks </h1>
+<h1 align="center"> Project Name: My Social Links </h1>
 
 <p align="center">
-Programa exclusivo desenvolvido por Werner Holanda, promovido com base no projeto fornecido pela Rocketseat para ensino de tecnologias WEB. <br/>
+Programa exclusivo desenvolvido por Werner Holanda, promovido tomando por base o projeto fornecido pela Rocketseat para ensino de tecnologias WEB - No BootCamp "DevLinks". <br/>
 <!--<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Estude esse projeto em formato de vídeo clicando aqui.</a> -->
 </p>
 
@@ -18,9 +18,15 @@ Programa exclusivo desenvolvido por Werner Holanda, promovido com base no projet
 
 <br>
 
+<h3>🔖 Abaixo, há a página/projeto em sua versão escura(dark):</h3>
 <p align="center">
-  <img alt="projeto DevLinks" src="./preview/dark mode.png" width="100%">
+  <img alt="projeto My Social Links" src=".github/dark-mode.jpg" width="100%">
 </p>
+<br>
+<h3>🔖 Em seguida, ao clicar no botão, é possível alterar o layout da página para o modo Claro (Light-mode):<h3>
+<br>
+<p align="center">
+ <img alt="projeto My Social Links - Light-mode" src=".github/light-mode.jpg" width="100%">
 
 ## 🚀 Tecnologias
 
@@ -33,9 +39,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-A página desenvolvida é um agregador de links para usar como cartão de visitas online.
+A página desenvolvida é um agregador de links para usar como cartão de visitas online. Ao fundo, há as tecnologias que este desenvolvedor já domina.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+
 
 
 ## 🔖 Layout
@@ -48,4 +54,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ por Werner, based on the Rocketseat project "DevLinks" :wave:
+Feito com ♥ por Werner Holanda, based on the Rocketseat project "DevLinks" :wave:

@@ -52,9 +52,10 @@ body * {
 /* "#" é um seletor de id que eu defini no html. q é um seletor apenas do id específico */
 #container1 {
   text-align: center;
-  align-items: center;
-  width: 368px;
-  height: botton;
+  
+  width: 100%;
+  max-width: 588px;
+  
 
   margin-left: auto;
   margin-right: auto;

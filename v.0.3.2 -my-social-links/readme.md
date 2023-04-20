@@ -27,7 +27,7 @@ Programa exclusivo desenvolvido por Werner Holanda, promovido tomando por base o
 
 </h3>
 <p align="center">
-  <img alt="projeto My Social Links" src=".github/dark-light.gif" width="100%">
+  <img alt="projeto My Social Links" src=".github/dark-light.gif" height="590em">
 </p>
 <br>
 

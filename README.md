@@ -26,11 +26,11 @@ Programa exclusivo desenvolvido por Werner Holanda, promovido tomando por base o
 - Também, às minhas linguagens de programação já aprendidas; 
 - Por fim, demonstro a possibilidade de um outro layout da página no modo Claro-Escuro, e o seu funcionamento; 
     
-</h3>
-<p align="center">
-  <img src="https://github.com/WernerHolanda/My-social-links/blob/main/v.0.3.2%20-my-social-links/.github/dark-light.gif" heght="590em">
+<div>
+ <p align="left">
+  <img align="right" height="390em" src="https://github.com/WernerHolanda/My-social-links/blob/main/DOCS/.github/dark-light.gif" height="590em">
+ </img>
 </p>
-<br>
 
 ## 🚀 Tecnologias
 

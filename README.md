@@ -1,5 +1,3 @@
-# My-social-links:
-
 <h1 align="center"> Project Name: My Social Links </h1>
 
 <p align="center">
@@ -25,12 +23,13 @@ Programa exclusivo desenvolvido por Werner Holanda, promovido tomando por base o
 - Link de acesso às minhas Social Links; 
 - Também, às minhas linguagens de programação já aprendidas; 
 - Por fim, demonstro a possibilidade de um outro layout da página no modo Claro-Escuro, e o seu funcionamento; 
-    
-<div>
- <p align="left">
-  <img align="right" height="390em" src="https://github.com/WernerHolanda/My-social-links/blob/main/DOCS/.github/dark-light.gif" height="590em">
- </img>
+
+
+</h3>
+<p align="center">
+  <img alt="projeto My Social Links" src=".github/dark-light.gif" height="590em">
 </p>
+<br>
 
 ## 🚀 Tecnologias
 
